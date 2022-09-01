@@ -1,0 +1,5 @@
+venv
+.vscode
+
+# For CSC2003
+CSC2003/build
