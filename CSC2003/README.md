@@ -1,4 +1,41 @@
 # CSC2003 : Embedded Systems & Sensor Programming
 
-For this attempt will be in Raspberry pi PICO
+For this attempt will be in Raspberry pi PICO. <br>
+MSP432 is done in group. but code will not be here
 
+*.elf file is for debugging  <br>
+*.uf2 file is a usb flashing format
+
+# Setup process
+
+vscode  <br>
+Extension required  <br>
+CMake <br>
+CMake Tools 
+
+ <br>
+
+vscode > command palette
+
+```> CMake: Configure```
+
+
+.vscode > settings.json
+ ``` JSON
+ {
+    "cmake.environment": {
+      "PICO_SDK_PATH":"<replace-with-pico-sdk-dir>"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cmake.exportCompileCommandsFile": true,
+    "cmake.generator": "Unix Makefiles",
+    "cmake.sourceDirectory": "${workspaceFolder}/CSC2003"
+}
+  
+ ```
+
+ # Lab Information
+
+| Lab           | Information                    | Others        |
+| ------------- |:------------------------------:| ------------- |
+| Lab01         | GPIO LED                       |               |
