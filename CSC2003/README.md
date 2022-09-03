@@ -36,6 +36,6 @@ vscode > command palette
 
  # Lab Information
 
-| Lab           | Information                    | Others        |
-| ------------- |:------------------------------:| ------------- |
-| Lab01         | GPIO LED                       |               |
+| Lab           | Information                    | Others                                            |
+| ------------- |:------------------------------:| ------------------------------------------------- |
+| Lab01         | GPIO LED                       | Week 1 - Not required for submission              |
