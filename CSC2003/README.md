@@ -1,7 +1,9 @@
 # CSC2003 : Embedded Systems & Sensor Programming
 
-For this attempt will be in Raspberry pi PICO. <br>
-MSP432 is done in group. but code will not be here
+For this attempt will be in MSP432. <br>
+MSP432 is done in doubles
+
+
 
 *.elf file is for debugging  <br>
 *.uf2 file is a usb flashing format
@@ -36,6 +38,6 @@ vscode > command palette
 
  # Lab Information
 
-| Lab           | Information                    | Others        |
-| ------------- |:------------------------------:| ------------- |
-| Lab01         | GPIO LED                       |               |
+| Lab   | Information                    | Others                  |
+| ----- |:------------------------------:| ----------------------- |
+| Lab01 | Basic & Setup                  | With LED onboard blink  |

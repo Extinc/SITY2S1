@@ -1,6 +1,13 @@
-venv
 .vscode
 
 # For CSC2003
 CSC2003/build
+CSC2003/.idea
+CSC2003/.vscode
+
 build
+
+# Python
+venv
+
+.DS_Store
