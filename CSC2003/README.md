@@ -40,4 +40,5 @@ vscode > command palette
 
 | Lab   | Information                    | Others                  |
 | ----- |:------------------------------:| ----------------------- |
-| Lab01 | Basic & Setup                  | With LED onboard blink  |
+| Lab01 | Basic & Setup                  | With LED onboard blink - Week 1 not required for submission  |
+| Lab02 | Configuring pin as Output (LED)| With LED onboard blink (RGB) with S1 and S2 button press |
